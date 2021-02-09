@@ -1,0 +1,54 @@
+*{
+  background-color: olive;
+}
+
+header{
+  font-family: 'Sigmar One', cursive;
+}
+#firstSection{
+  font-family: 'Gruppo', cursive;
+  font-size: 24;
+}
+
+#secondSection{
+  font-family: 'Gruppo', cursive;
+  font-size: 32;
+  font-weight: bolder;
+}
+
+#thirdSection{
+  font-family: 'Gruppo', cursive;
+  font-size: 24;
+}
+
+#fourthSection{
+  font-family: 'Sigmar One', cursive;
+}
+
+#fifthSection{
+  font-family: 'Gruppo', cursive;
+  font-size: 24;
+}
+
+#sixthSection{
+  font-family: 'Sigmar One', cursive;
+}
+
+#seventhSection{
+  font-family: 'Gruppo', cursive;
+  font-size: 24;
+}
+
+#eighthSection{
+  font-family: 'Sigmar One', cursive;
+}
+
+#ninthSection{
+  font-family: 'Gruppo', cursive;
+  font-size: 24;
+}
+
+#tenthSection{
+  font-family: 'Gruppo', cursive;
+  font-size: 24;
+}

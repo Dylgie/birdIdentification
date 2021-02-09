@@ -1,0 +1,69 @@
+*{
+  background-color: gray;
+}
+
+header{
+  font-family: 'Bungee', cursive;
+}
+
+#firstSection{
+  font-family: 'Forum', cursive;
+  font-size: 24;
+}
+
+#secondSection{
+  font-family: 'Bungee', cursive;
+}
+
+#thirdSection{
+  font-family: 'Forum', cursive;
+  font-size: 24;
+}
+
+#fourthSection{
+  font: courier;
+  font-size: 12;
+  color: white;
+}
+
+#fifthSection{
+  font-family: 'Bungee', cursive;
+}
+
+#sixthSection{
+  font-family: 'Forum', cursive;
+  font-size: 24;
+}
+
+#seventhSection{
+  font-family: 'Bungee', cursive;
+}
+
+#eighthSection{
+  font-family: 'Forum', cursive;
+  font-size: 24;
+}
+
+#ninthSection{
+  font-family: 'Bungee', cursive;
+}
+
+#tenthSection{
+  font-family: 'Forum', cursive;
+  font-size: 24;
+}
+
+#eleventhSection{
+  font: courier;
+  font-size: 12;
+  color: white;
+}
+
+#twelfthSection{
+  font-family: 'Bungee', cursive;
+}
+
+#thirteenthSection{
+  font-family: 'Forum', cursive;
+  font-size: 24;
+}
