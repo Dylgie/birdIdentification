@@ -1,0 +1,21 @@
+*{
+  background-color: olive;
+}
+
+header{
+    font-family: 'Sigmar One', cursive;
+
+}
+
+#firstSection{
+  font-family: courier;
+  font-size: 24;
+  font-weight: bold;
+}
+
+#images{
+  font-family: courier;
+  font-size: 18;
+  padding-left: 290px;
+  padding-right: 290px;
+}
