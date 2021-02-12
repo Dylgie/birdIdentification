@@ -5,6 +5,12 @@
 header{
   font-family: 'Sigmar One', cursive;
 }
+
+img{
+  padding-left: 290px;
+  padding-right:290px;
+}
+
 #firstSection{
   font-family: 'Gruppo', cursive;
   font-size: 24;
